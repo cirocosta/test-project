@@ -1,0 +1,10 @@
+{
+  "id": "container1",
+  "type": "generic",
+  "hooks": {
+    "before_build": "pwd",
+    "build": "echo build > ./build",
+    "after_build": "ls",
+    "run": "echo run > ./run" 
+  }
+}
