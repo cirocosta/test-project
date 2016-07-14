@@ -1,6 +1,6 @@
 {
   "id": "container1",
-  "type": "generic",
+  "type": "wedeploy/sample",
   "hooks": {
     "before_build": "pwd",
     "build": "echo build > ./build",
