@@ -1,5 +1,5 @@
 {
-  "id": "mycontaineriner",
+  "id": "changed-containeiner",
   "type": "wedeploy/builders-sample",
   "hooks": {
     "before_build": "pwd",
