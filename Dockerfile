@@ -1,3 +1,3 @@
-FROM busybox
+FROM frolvlad/alpine-bash
 
 RUN echo testing
