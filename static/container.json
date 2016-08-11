@@ -1,6 +1,6 @@
 {
   "id": "static",
-  "type": "wedeploy/hosting",
+  "type": "wedeploy/data",
   "hooks": {
     "build": "pwd"
   }
