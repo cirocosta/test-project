@@ -1,0 +1,7 @@
+{
+  "id": "static",
+  "type": "wedeploy/hosting",
+  "hooks": {
+    "build": "pwd",
+  }
+}
