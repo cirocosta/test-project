@@ -2,7 +2,7 @@
 
 let express = require('express');
 let app = express();
-const PORT = 1337;
+const PORT = 80;
 
 app.get('/_ping', (req, res) => {
   res.send('pong');
