@@ -1,0 +1,6 @@
+{
+  "id": "static-files",
+  "hooks": {
+    "build": "npm install"
+  }
+}
