@@ -1,5 +1,5 @@
 {
-  "id": "static-files",
+  "id": "staticfiles",
   "type": "wedeploy/nodejs",
   "hooks": {
     "build": "npm install"
